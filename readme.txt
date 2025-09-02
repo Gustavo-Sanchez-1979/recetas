@@ -1,1 +1,1 @@
-Este es un proyecto de recetas para gordos
+Este es un proyecto de recetas para gordos y tambien para flacos
